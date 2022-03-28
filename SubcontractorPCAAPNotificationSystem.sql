@@ -6,4 +6,4 @@ WHERE LEFT(E.EMPL_ID, 1) LIKE 'S%'
   AND VE.VEND_ID IS NOT NULL
   AND PE.PROJ_ID IS NULL
 
---Test
+--Test Test Test
